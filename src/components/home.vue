@@ -44,7 +44,7 @@ export default {
     };
   },
   methods: {
-    demo() {
+    async demo() {
       //接口请求
       var result = await this.$api.ProductIndex();
       console.log(result);
