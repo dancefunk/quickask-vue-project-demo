@@ -6,7 +6,7 @@ Vite + Vue-CLI + Vue-Router + Vant + Axios
 
 # quickask-vue-base-demo
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/quickask-vue-base-demo)
+[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/quickask-vue-project-demo)
 
 # 详细教程
 
